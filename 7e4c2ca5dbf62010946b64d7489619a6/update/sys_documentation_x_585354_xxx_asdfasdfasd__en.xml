@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="asdfasdfasd" language="en" table="x_585354_xxx_asdfasdfasd">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>asdfasdfasd</label>
+            <language>en</language>
+            <name>x_585354_xxx_asdfasdfasd</name>
+            <plural>asdfasdfasds</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-09 15:21:11</sys_created_on>
+            <sys_id>730d24e9dbf62010946b64d748961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>asdfasdfasd</sys_name>
+            <sys_package display_value="xxx" source="x_585354_xxx">7e4c2ca5dbf62010946b64d7489619a6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="xxx">7e4c2ca5dbf62010946b64d7489619a6</sys_scope>
+            <sys_update_name>sys_documentation_x_585354_xxx_asdfasdfasd__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-09 15:21:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
